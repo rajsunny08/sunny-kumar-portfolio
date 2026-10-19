@@ -1,0 +1,24 @@
+SUNNY KUMAR
+Full Stack Developer
+
+PROFILE
+B.Tech graduate (2025) building practical web applications and exploring startup ideas.
+
+TECHNICAL SKILLS
+Java, JavaScript, React, Node.js, HTML, CSS, SQL
+
+PROJECTS
+SamadhanHub — Community problem-solving platform. Reported verified features include homepage rendering, problem listing, problem submission, problem details, persistent status updates, registration/login, and mobile layout. Other features require verification.
+
+VELORA FASHION — Fashion storefront project. Confirm the current implementation, working flows, and project links before adding further claims.
+
+Pinora Studio — Digital resource website concept focused on AI tools, Canva resources, digital resources, and digital products. Confirm current implementation and links before adding further claims.
+
+PROFILES
+GitHub: https://github.com/rajsunny08
+LinkedIn: https://www.linkedin.com/in/rajsunny08/
+LeetCode: https://leetcode.com/u/iamsunnykumar0008/
+Freelancer: https://www.freelancer.in/u/sunnyk0008
+
+NOTE
+This is an editable starter resume. Add your verified contact details, degree specialization, college, dates, project repository/demo links, and relevant experience before sending it to employers.
