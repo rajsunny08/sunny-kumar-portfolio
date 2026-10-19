@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://rajsunny08.github.io/github-portfolio",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+
+    
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview"
