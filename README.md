@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sunny Kumar — Developer Portfolio
 
 A responsive dark-premium portfolio built with React + Vite on the frontend and Node.js + Express on the backend.
@@ -52,3 +53,7 @@ VELORA FASHION and Pinora Studio: shown as portfolio projects with cautious desc
 
 ## Production notes
 This starter is suitable for local development. Before production, use a durable database, add a real email delivery integration, configure environment variables and HTTPS, add robust abuse prevention, and deploy the client and API using your chosen hosting provider.
+=======
+# sunny-kumar-portfolio
+Personal developer portfolio built with React and Node.js
+>>>>>>> 95f80aea0197d0a4adebd459e1e3e4e2ee515625
